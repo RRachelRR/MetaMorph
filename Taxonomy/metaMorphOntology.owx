@@ -1,0 +1,3063 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/robin/ontologies/2024/8/untitled-ontology-32"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/robin/ontologies/2024/8/untitled-ontology-32">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R02OKGTqPuXBSgk8l2bMHO"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R4dtKAunuhLavdqlaI6cmh"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7Mv2XU3ZvoVKgYGZkSUU5I"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7Q0LuSWGZ9tpuF2zlNrbC0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7r8gWcb1ebnhW0CwDkSSpb"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R842gYp8xm7kHDbMJMppZQG"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8IjhVhl5whrGa1IOm9bfx4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8XO2qFuqCce38qAl8xnjPv"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8e2UnM8kkab5WnvxIqPWPL"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8iM65a9sYcjRAhcmXpXJxN"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R982m4m5ySAsqq6miTGUG6p"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9AJPNaThTYqdSB9gIwlKTr"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9FBb7WXVpHsCufy0ayUvyh"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9LBVfc1fMA1Yh3TvNbiZT8"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9LuD8AEVyzgC3iQ6uZMPFA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9MUZ83HHpv3RKAW70fflDF"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9NnNizKhDljMXzjfOL5rsP"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9PJnYdwaiPCMknwdWiuC3A"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9TnMPDtfyxawQZWTCx9gRi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9Vu7I2cK5Mvrr4FhMmpBhZ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9XdKsRxgIDlGupq82F0mcD"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9gYE4FWKVpy5M3iNLAKtef"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9tzJlMGSTtBDtO9mZFFrbR"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9u2Fkc44SjDes2H4wz5hdd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBDEcI35Z3PAHCT2RqjKV0M"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBDNAbNKSRPVOwboPDDC9Q5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBMB1iP72pFLo9373wPIiDM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBPRjifj6NPpKsn180tbwZM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBRxcBvwJ19EkKBjn751Nqt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBmMPqGWIFW3TV6zYy8FSvy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RC4MetGqOfscejbxiAYH7sA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCDUBk8kJCdC3bokugTYbzz"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCGhqGdN6orpUBO7xDBSMAh"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCVvxC06XvWnEBtlxl2XbA6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCb4VQhyeXHbltBuPegfKnd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCepvh5zm9dF7IgYHtQOc51"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCey6KMmbZ2dxCqrJIQIyEu"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RChr3il1AYaL2WVOZnIpocW"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCmRVbec618rieGvT1gHJEk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCxIP3XiIFHhHDClZmDy6dv"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDAY5n3ett86eJr1PDqjsny"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDE1MICnZrBMKqXaKt0fVVg"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDVz2cx8jyHiO99gGRSkEJW"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RFURTubKDWqLAihpLETJcT"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RJyNrKpDzg3Wql5fwIreYx"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RMeeMloTlOA13UQHPzaPui"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RN4DyzZ6BvWYwNJnweTFFv"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RPiHntqYkJZvtDkAr0jEGs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RXhxJTge2Myn7mnszyZf4a"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RYXpXefWlrMm4yyypxiPoV"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RfN4SQurwk33FB40hDMOp0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RmlKg8qRndN3jOfUeB7GJE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RnQD44Nmq5InYeR04Ag8nq"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RzZtKB6bQ0sUkdUWm2WwUK"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Abstract"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AnimalHumanoidHybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Anthropomorphic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AnthropomorphicCaricature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AntropomorphicSilhouette"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Arm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Barrel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BoxHumanoidHybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BoxShaped"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BoxSilhouette"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bust"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Centaur"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ChessPawn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Column"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cube"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cylinder"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DegreeOfRealism"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DiamondShape"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DiamondSilhouette"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dinosaur"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dog"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Doll"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Drone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ellipsoid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Excavator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fork"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GeneralDescriptor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GeometricSilhouette"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Giraffe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gravestone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HandAndGripperConfiguration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HeadlessHumanoid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Helmet"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HermitCrab"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hexaped"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Humanoid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanoidAnimalHybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanoidBaseHybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanoidBottomHybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanoidHybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanoidTopHybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanoidVehicleHybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hyperrealistic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#JointAmount"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lizard"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Long"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mitten"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Monkey"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Morphism"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NeckLength"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PairOfLegs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PartialHumanoids"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Peanut"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Plane"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Plate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Quadruped"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Realistic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotAbdomen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotAccessories"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotAirSupportingSubdivision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotAntenna"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotAppendage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotArm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotBackpack"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotBall"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotBase"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotBeak"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotBeard"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotBody"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotBodySegment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotCamera"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotCameraEye"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotClothing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotConnectingSubdivision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotContainer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotEar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotEye"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotEyebrow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotFin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotFoot"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotFrame"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotGripper"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotGroundSupportingSubdivision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotHair"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotHand"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotHandle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotHanger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotHead"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotHeadScreen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotHeadSegment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotHigherFaceFeature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotHumanFaceScreen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotLeg"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotLimbSegment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotLowerFaceFeature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotManipulator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotMidfaceFeature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotMorphologicalDescriptor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotMorphologicalFeature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotMorphologicalSilhouette"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotMouth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotNeck"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotNose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotRobotFaceScreen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotRopeSupportingSubdivision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotRotor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotScalpHair"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotScreenAppandage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotSensorArray"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotSensorArrayEye"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotSensorArrayMouth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotShoulder"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotSnout"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotStand"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotStructuralCore"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotSupportingSubdivision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotTail"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotTerminalSubdivision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotThorax"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotThruster"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotTool"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotTorso"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotTread"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotVisor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotWaterRotor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotWaterSupportingSubdivision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotWearables"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotWheel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RobotWing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rocket"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RoundedBoxShape"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RoundedBoxSilhouette"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shape"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ship"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shoe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Short"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SingleArmHumanoidBaseHybrid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sloth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Snake"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spade"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sphere"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SubdidvisionSpecificDescriptor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Symbolic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tank"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Technomorphic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TechnomorphicSilhouette"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Torpedo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TorsoWithArms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Trapezoid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vehicle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Zoomorphic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ZoomorphicSilhouette"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0Joint"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1Joint"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2Finger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2Joint"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#3Finger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#3Joint"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#4Finger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#5Finger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#7Joint"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+    </Declaration>
+    <Declaration>
+        <Datatype abbreviatedIRI="rdf:PlainLiteral"/>
+    </Declaration>
+    <Declaration>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R02OKGTqPuXBSgk8l2bMHO"/>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R4dtKAunuhLavdqlaI6cmh"/>
+        <Class IRI="http://webprotege.stanford.edu/R9PJnYdwaiPCMknwdWiuC3A"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7Mv2XU3ZvoVKgYGZkSUU5I"/>
+        <Class IRI="#Hexaped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7Q0LuSWGZ9tpuF2zlNrbC0"/>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7r8gWcb1ebnhW0CwDkSSpb"/>
+        <Class IRI="http://webprotege.stanford.edu/RJyNrKpDzg3Wql5fwIreYx"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R842gYp8xm7kHDbMJMppZQG"/>
+        <Class IRI="http://webprotege.stanford.edu/RCGhqGdN6orpUBO7xDBSMAh"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8IjhVhl5whrGa1IOm9bfx4"/>
+        <Class IRI="#RobotManipulator"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8XO2qFuqCce38qAl8xnjPv"/>
+        <Class IRI="http://webprotege.stanford.edu/RBmMPqGWIFW3TV6zYy8FSvy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8e2UnM8kkab5WnvxIqPWPL"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8iM65a9sYcjRAhcmXpXJxN"/>
+        <Class IRI="#Quadruped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+        <Class IRI="http://webprotege.stanford.edu/R9PJnYdwaiPCMknwdWiuC3A"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R982m4m5ySAsqq6miTGUG6p"/>
+        <Class IRI="http://webprotege.stanford.edu/R9tzJlMGSTtBDtO9mZFFrbR"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9AJPNaThTYqdSB9gIwlKTr"/>
+        <Class IRI="#RobotManipulator"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9FBb7WXVpHsCufy0ayUvyh"/>
+        <Class IRI="http://webprotege.stanford.edu/RBMB1iP72pFLo9373wPIiDM"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9LBVfc1fMA1Yh3TvNbiZT8"/>
+        <Class IRI="#RobotTool"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9LuD8AEVyzgC3iQ6uZMPFA"/>
+        <Class IRI="#TechnomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9MUZ83HHpv3RKAW70fflDF"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9NnNizKhDljMXzjfOL5rsP"/>
+        <Class IRI="#SubdidvisionSpecificDescriptor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9PJnYdwaiPCMknwdWiuC3A"/>
+        <Class IRI="http://webprotege.stanford.edu/RDVz2cx8jyHiO99gGRSkEJW"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9TnMPDtfyxawQZWTCx9gRi"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9Vu7I2cK5Mvrr4FhMmpBhZ"/>
+        <Class IRI="http://webprotege.stanford.edu/RBmMPqGWIFW3TV6zYy8FSvy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9XdKsRxgIDlGupq82F0mcD"/>
+        <Class IRI="#HumanoidAnimalHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9gYE4FWKVpy5M3iNLAKtef"/>
+        <Class IRI="#RobotRopeSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9tzJlMGSTtBDtO9mZFFrbR"/>
+        <Class IRI="#Hybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9u2Fkc44SjDes2H4wz5hdd"/>
+        <Class IRI="#RobotAccessories"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBDEcI35Z3PAHCT2RqjKV0M"/>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBDNAbNKSRPVOwboPDDC9Q5"/>
+        <Class IRI="http://webprotege.stanford.edu/R9NnNizKhDljMXzjfOL5rsP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBMB1iP72pFLo9373wPIiDM"/>
+        <Class IRI="#ZoomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBPRjifj6NPpKsn180tbwZM"/>
+        <Class IRI="http://webprotege.stanford.edu/R9NnNizKhDljMXzjfOL5rsP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBRxcBvwJ19EkKBjn751Nqt"/>
+        <Class IRI="#GeometricSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBmMPqGWIFW3TV6zYy8FSvy"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RC4MetGqOfscejbxiAYH7sA"/>
+        <Class IRI="http://webprotege.stanford.edu/R4dtKAunuhLavdqlaI6cmh"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCDUBk8kJCdC3bokugTYbzz"/>
+        <Class IRI="http://webprotege.stanford.edu/R9PJnYdwaiPCMknwdWiuC3A"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCGhqGdN6orpUBO7xDBSMAh"/>
+        <Class IRI="http://webprotege.stanford.edu/R982m4m5ySAsqq6miTGUG6p"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCVvxC06XvWnEBtlxl2XbA6"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCb4VQhyeXHbltBuPegfKnd"/>
+        <Class IRI="http://webprotege.stanford.edu/R4dtKAunuhLavdqlaI6cmh"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCepvh5zm9dF7IgYHtQOc51"/>
+        <Class IRI="http://webprotege.stanford.edu/RBmMPqGWIFW3TV6zYy8FSvy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCey6KMmbZ2dxCqrJIQIyEu"/>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RChr3il1AYaL2WVOZnIpocW"/>
+        <Class IRI="#RobotWaterSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCmRVbec618rieGvT1gHJEk"/>
+        <Class IRI="http://webprotege.stanford.edu/R9NnNizKhDljMXzjfOL5rsP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCxIP3XiIFHhHDClZmDy6dv"/>
+        <Class IRI="#ZoomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDAY5n3ett86eJr1PDqjsny"/>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDE1MICnZrBMKqXaKt0fVVg"/>
+        <Class IRI="#RobotTool"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RFURTubKDWqLAihpLETJcT"/>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RJyNrKpDzg3Wql5fwIreYx"/>
+        <Class IRI="http://webprotege.stanford.edu/R982m4m5ySAsqq6miTGUG6p"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RMeeMloTlOA13UQHPzaPui"/>
+        <Class IRI="http://webprotege.stanford.edu/R9NnNizKhDljMXzjfOL5rsP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RN4DyzZ6BvWYwNJnweTFFv"/>
+        <Class IRI="http://webprotege.stanford.edu/RBmMPqGWIFW3TV6zYy8FSvy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RPiHntqYkJZvtDkAr0jEGs"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RXhxJTge2Myn7mnszyZf4a"/>
+        <Class IRI="http://webprotege.stanford.edu/R4dtKAunuhLavdqlaI6cmh"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RYXpXefWlrMm4yyypxiPoV"/>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RfN4SQurwk33FB40hDMOp0"/>
+        <Class IRI="#RobotTorso"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RmlKg8qRndN3jOfUeB7GJE"/>
+        <Class IRI="#ZoomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RnQD44Nmq5InYeR04Ag8nq"/>
+        <Class IRI="http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RzZtKB6bQ0sUkdUWm2WwUK"/>
+        <Class IRI="http://webprotege.stanford.edu/RBmMPqGWIFW3TV6zYy8FSvy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Abstract"/>
+        <Class IRI="#DegreeOfRealism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#AnimalHumanoidHybrid"/>
+        <Class IRI="#HumanoidBottomHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anthropomorphic"/>
+        <Class IRI="#Morphism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#AnthropomorphicCaricature"/>
+        <Class IRI="#Anthropomorphic"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#AntropomorphicSilhouette"/>
+        <Class IRI="#RobotMorphologicalSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Arm"/>
+        <Class IRI="#PartialHumanoids"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Barrel"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BoxHumanoidHybrid"/>
+        <Class IRI="#HumanoidBottomHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BoxShaped"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BoxSilhouette"/>
+        <Class IRI="#GeometricSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bust"/>
+        <Class IRI="#PartialHumanoids"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cat"/>
+        <Class IRI="#Quadruped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Centaur"/>
+        <Class IRI="#HumanoidAnimalHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ChessPawn"/>
+        <Class IRI="#GeometricSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Column"/>
+        <Class IRI="#GeometricSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cone"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cube"/>
+        <Class IRI="#BoxShaped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cylinder"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DegreeOfRealism"/>
+        <Class IRI="#GeneralDescriptor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DiamondShape"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DiamondSilhouette"/>
+        <Class IRI="#GeometricSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dinosaur"/>
+        <Class IRI="#Quadruped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dog"/>
+        <Class IRI="#Quadruped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Doll"/>
+        <Class IRI="#AntropomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Drone"/>
+        <Class IRI="#TechnomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ellipsoid"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Excavator"/>
+        <Class IRI="#Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fork"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GeneralDescriptor"/>
+        <Class IRI="#RobotMorphologicalDescriptor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GeometricSilhouette"/>
+        <Class IRI="#RobotMorphologicalSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Giraffe"/>
+        <Class IRI="#Quadruped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gravestone"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HandAndGripperConfiguration"/>
+        <Class IRI="#SubdidvisionSpecificDescriptor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HeadlessHumanoid"/>
+        <Class IRI="#PartialHumanoids"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Helmet"/>
+        <Class IRI="#RobotHead"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HermitCrab"/>
+        <Class IRI="#HumanoidAnimalHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hexaped"/>
+        <Class IRI="#ZoomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Humanoid"/>
+        <Class IRI="#AntropomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanoidAnimalHybrid"/>
+        <Class IRI="#HumanoidTopHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanoidBaseHybrid"/>
+        <Class IRI="#HumanoidTopHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanoidBottomHybrid"/>
+        <Class IRI="#HumanoidHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanoidHybrid"/>
+        <Class IRI="#Hybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanoidTopHybrid"/>
+        <Class IRI="#HumanoidHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanoidVehicleHybrid"/>
+        <Class IRI="#HumanoidTopHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hybrid"/>
+        <Class IRI="#RobotMorphologicalSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hyperrealistic"/>
+        <Class IRI="#DegreeOfRealism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#JointAmount"/>
+        <Class IRI="#SubdidvisionSpecificDescriptor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lizard"/>
+        <Class IRI="#Quadruped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Long"/>
+        <Class IRI="#NeckLength"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mitten"/>
+        <Class IRI="#HandAndGripperConfiguration"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Monkey"/>
+        <Class IRI="#ZoomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Morphism"/>
+        <Class IRI="#GeneralDescriptor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NeckLength"/>
+        <Class IRI="#SubdidvisionSpecificDescriptor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PairOfLegs"/>
+        <Class IRI="#PartialHumanoids"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PartialHumanoids"/>
+        <Class IRI="#AntropomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Peanut"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pear"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Plane"/>
+        <Class IRI="#Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Plate"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quadruped"/>
+        <Class IRI="#ZoomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Realistic"/>
+        <Class IRI="#DegreeOfRealism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotAbdomen"/>
+        <Class IRI="#RobotBodySegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotAccessories"/>
+        <Class IRI="#RobotWearables"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotAirSupportingSubdivision"/>
+        <Class IRI="#RobotSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotAntenna"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotAppendage"/>
+        <Class IRI="#RobotTerminalSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotArm"/>
+        <Class IRI="#RobotLimbSegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBackpack"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBall"/>
+        <Class IRI="#RobotGroundSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBase"/>
+        <Class IRI="#RobotGroundSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBase"/>
+        <Class IRI="#RobotStructuralCore"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBeak"/>
+        <Class IRI="#RobotLowerFaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBeak"/>
+        <Class IRI="#RobotMidfaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBeard"/>
+        <Class IRI="#RobotHair"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBeard"/>
+        <Class IRI="#RobotLowerFaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBody"/>
+        <Class IRI="#RobotStructuralCore"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotBodySegment"/>
+        <Class IRI="#RobotStructuralCore"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotCamera"/>
+        <Class IRI="#RobotHigherFaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotCameraEye"/>
+        <Class IRI="#RobotCamera"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotCameraEye"/>
+        <Class IRI="#RobotEye"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotClothing"/>
+        <Class IRI="#RobotWearables"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotConnectingSubdivision"/>
+        <Class IRI="#RobotMorphologicalFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotContainer"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotEar"/>
+        <Class IRI="#RobotMidfaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotEye"/>
+        <Class IRI="#RobotHigherFaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotEyebrow"/>
+        <Class IRI="#RobotHair"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotEyebrow"/>
+        <Class IRI="#RobotHigherFaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotFin"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotFoot"/>
+        <Class IRI="#RobotGroundSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotFrame"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotGripper"/>
+        <Class IRI="#RobotManipulator"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotGroundSupportingSubdivision"/>
+        <Class IRI="#RobotSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHair"/>
+        <Class IRI="#RobotHeadSegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHand"/>
+        <Class IRI="#RobotManipulator"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHandle"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHanger"/>
+        <Class IRI="#RobotRopeSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHead"/>
+        <Class IRI="#RobotConnectingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHeadScreen"/>
+        <Class IRI="#RobotHeadSegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHeadScreen"/>
+        <Class IRI="#RobotScreenAppandage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHeadSegment"/>
+        <Class IRI="#RobotTerminalSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHigherFaceFeature"/>
+        <Class IRI="#RobotHeadSegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotHumanFaceScreen"/>
+        <Class IRI="#RobotHeadScreen"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotLeg"/>
+        <Class IRI="#RobotLimbSegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotLimbSegment"/>
+        <Class IRI="#RobotConnectingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotLowerFaceFeature"/>
+        <Class IRI="#RobotHeadSegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotManipulator"/>
+        <Class IRI="#RobotTerminalSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotMidfaceFeature"/>
+        <Class IRI="#RobotHeadSegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotMorphologicalDescriptor"/>
+        <Class IRI="http://webprotege.stanford.edu/RDVz2cx8jyHiO99gGRSkEJW"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotMorphologicalFeature"/>
+        <Class IRI="http://webprotege.stanford.edu/RDVz2cx8jyHiO99gGRSkEJW"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotMorphologicalSilhouette"/>
+        <Class IRI="http://webprotege.stanford.edu/RDVz2cx8jyHiO99gGRSkEJW"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotMouth"/>
+        <Class IRI="#RobotLowerFaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotNeck"/>
+        <Class IRI="#RobotConnectingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotNose"/>
+        <Class IRI="#RobotMidfaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotRobotFaceScreen"/>
+        <Class IRI="#RobotHeadScreen"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotRopeSupportingSubdivision"/>
+        <Class IRI="#RobotSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotRotor"/>
+        <Class IRI="#RobotAirSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotScalpHair"/>
+        <Class IRI="#RobotHair"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotScreenAppandage"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotSensorArray"/>
+        <Class IRI="#RobotHeadSegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotSensorArrayEye"/>
+        <Class IRI="#RobotEye"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotSensorArrayEye"/>
+        <Class IRI="#RobotSensorArray"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotSensorArrayMouth"/>
+        <Class IRI="#RobotMouth"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotSensorArrayMouth"/>
+        <Class IRI="#RobotSensorArray"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotShoulder"/>
+        <Class IRI="#RobotConnectingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotSnout"/>
+        <Class IRI="#RobotMidfaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotStand"/>
+        <Class IRI="#RobotGroundSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotStructuralCore"/>
+        <Class IRI="#RobotMorphologicalFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotSupportingSubdivision"/>
+        <Class IRI="#RobotTerminalSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotTail"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotTerminalSubdivision"/>
+        <Class IRI="#RobotMorphologicalFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotThorax"/>
+        <Class IRI="#RobotBodySegment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotThruster"/>
+        <Class IRI="#RobotAirSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotThruster"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotTool"/>
+        <Class IRI="#RobotManipulator"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotTorso"/>
+        <Class IRI="#RobotBody"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotTread"/>
+        <Class IRI="#RobotGroundSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotVisor"/>
+        <Class IRI="#RobotHigherFaceFeature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotWaterRotor"/>
+        <Class IRI="#RobotWaterSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotWaterSupportingSubdivision"/>
+        <Class IRI="#RobotSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotWearables"/>
+        <Class IRI="#RobotTerminalSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotWheel"/>
+        <Class IRI="#RobotGroundSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotWing"/>
+        <Class IRI="#RobotAirSupportingSubdivision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RobotWing"/>
+        <Class IRI="#RobotAppendage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rocket"/>
+        <Class IRI="#Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RoundedBoxShape"/>
+        <Class IRI="#BoxShaped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RoundedBoxSilhouette"/>
+        <Class IRI="#BoxSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shape"/>
+        <Class IRI="#GeneralDescriptor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ship"/>
+        <Class IRI="#Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shoe"/>
+        <Class IRI="http://webprotege.stanford.edu/R9NnNizKhDljMXzjfOL5rsP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Short"/>
+        <Class IRI="#NeckLength"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SingleArmHumanoidBaseHybrid"/>
+        <Class IRI="#HumanoidBaseHybrid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sloth"/>
+        <Class IRI="#Quadruped"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Snake"/>
+        <Class IRI="#ZoomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spade"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sphere"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SubdidvisionSpecificDescriptor"/>
+        <Class IRI="#RobotMorphologicalDescriptor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Symbolic"/>
+        <Class IRI="#DegreeOfRealism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tank"/>
+        <Class IRI="#Vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Technomorphic"/>
+        <Class IRI="#Morphism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TechnomorphicSilhouette"/>
+        <Class IRI="#RobotMorphologicalSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Torpedo"/>
+        <Class IRI="#TechnomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TorsoWithArms"/>
+        <Class IRI="#PartialHumanoids"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Trapezoid"/>
+        <Class IRI="#Shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vehicle"/>
+        <Class IRI="#TechnomorphicSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Zoomorphic"/>
+        <Class IRI="#Morphism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ZoomorphicSilhouette"/>
+        <Class IRI="#RobotMorphologicalSilhouette"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0Joint"/>
+        <Class IRI="#JointAmount"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1Joint"/>
+        <Class IRI="#JointAmount"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2Finger"/>
+        <Class IRI="#HandAndGripperConfiguration"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2Joint"/>
+        <Class IRI="#JointAmount"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#3Finger"/>
+        <Class IRI="#HandAndGripperConfiguration"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#3Joint"/>
+        <Class IRI="#JointAmount"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#4Finger"/>
+        <Class IRI="#HandAndGripperConfiguration"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#5Finger"/>
+        <Class IRI="#HandAndGripperConfiguration"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#7Joint"/>
+        <Class IRI="#JointAmount"/>
+    </SubClassOf>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R02OKGTqPuXBSgk8l2bMHO</IRI>
+        <Literal>Full Coverage Chassis Seethrough</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R4dtKAunuhLavdqlaI6cmh</IRI>
+        <Literal>Mechanics are partially visible, partially covered by one or more materials</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R4dtKAunuhLavdqlaI6cmh</IRI>
+        <Literal>Mechanics partially covered</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7Mv2XU3ZvoVKgYGZkSUU5I</IRI>
+        <Literal>Insect</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7Q0LuSWGZ9tpuF2zlNrbC0</IRI>
+        <Literal>Full Coverage Chassis + Cloth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7r8gWcb1ebnhW0CwDkSSpb</IRI>
+        <Literal>Insect-vehicle-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R842gYp8xm7kHDbMJMppZQG</IRI>
+        <Literal>Insect-base-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8IjhVhl5whrGa1IOm9bfx4</IRI>
+        <Literal>Knob</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8XO2qFuqCce38qAl8xnjPv</IRI>
+        <Literal>U-shaped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8e2UnM8kkab5WnvxIqPWPL</IRI>
+        <Literal>Triangle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8iM65a9sYcjRAhcmXpXJxN</IRI>
+        <Literal>Unicorn</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY</IRI>
+        <Literal>Mechanics are fully covered by one or more materials</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R97CRjvUf986ZVGwtqGtvqY</IRI>
+        <Literal>Mechanics fully covered</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R982m4m5ySAsqq6miTGUG6p</IRI>
+        <Literal>&apos;Zoomorph top&apos; hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9AJPNaThTYqdSB9gIwlKTr</IRI>
+        <Literal>Suction cup</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9FBb7WXVpHsCufy0ayUvyh</IRI>
+        <Literal>Ostrich</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9LBVfc1fMA1Yh3TvNbiZT8</IRI>
+        <Literal>Syringe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9LuD8AEVyzgC3iQ6uZMPFA</IRI>
+        <Literal>Abstract Technomorphic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9MUZ83HHpv3RKAW70fflDF</IRI>
+        <Literal>Steering wheel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9NnNizKhDljMXzjfOL5rsP</IRI>
+        <Literal>Foot configuration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9PJnYdwaiPCMknwdWiuC3A</IRI>
+        <Literal>Coverings</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9TnMPDtfyxawQZWTCx9gRi</IRI>
+        <Literal>Ring</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9Vu7I2cK5Mvrr4FhMmpBhZ</IRI>
+        <Literal>S-shaped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9XdKsRxgIDlGupq82F0mcD</IRI>
+        <Literal>Humanoid-insect-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9gYE4FWKVpy5M3iNLAKtef</IRI>
+        <Literal>Pulley wheel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9tzJlMGSTtBDtO9mZFFrbR</IRI>
+        <Literal>Zoomorphic hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9u2Fkc44SjDes2H4wz5hdd</IRI>
+        <Literal>Helmet (accessory)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBDEcI35Z3PAHCT2RqjKV0M</IRI>
+        <Literal>Full Coverage Clothing + Skin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBDNAbNKSRPVOwboPDDC9Q5</IRI>
+        <Literal>2-toed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBMB1iP72pFLo9373wPIiDM</IRI>
+        <Literal>Bird</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBPRjifj6NPpKsn180tbwZM</IRI>
+        <Literal>Paw</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBRxcBvwJ19EkKBjn751Nqt</IRI>
+        <Literal>Sphere (Silhouette)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBmMPqGWIFW3TV6zYy8FSvy</IRI>
+        <Literal>Letter-shaped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RC4MetGqOfscejbxiAYH7sA</IRI>
+        <Literal>Partial Coverage Chassis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RCDUBk8kJCdC3bokugTYbzz</IRI>
+        <Literal>Mechanics are completely visible</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCDUBk8kJCdC3bokugTYbzz</IRI>
+        <Literal>Mechanics completely visible</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCGhqGdN6orpUBO7xDBSMAh</IRI>
+        <Literal>Zoomorph-base-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCVvxC06XvWnEBtlxl2XbA6</IRI>
+        <Literal>Cog</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCb4VQhyeXHbltBuPegfKnd</IRI>
+        <Literal>Partial Coverage Skin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCepvh5zm9dF7IgYHtQOc51</IRI>
+        <Literal>L-shaped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCey6KMmbZ2dxCqrJIQIyEu</IRI>
+        <Literal>Full Coverage Chassis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RChr3il1AYaL2WVOZnIpocW</IRI>
+        <Literal>Rudder</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCmRVbec618rieGvT1gHJEk</IRI>
+        <Literal>3-clawed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCxIP3XiIFHhHDClZmDy6dv</IRI>
+        <Literal>Seal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDAY5n3ett86eJr1PDqjsny</IRI>
+        <Literal>Full Coverage Skin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDE1MICnZrBMKqXaKt0fVVg</IRI>
+        <Literal>Lamp</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDVz2cx8jyHiO99gGRSkEJW</IRI>
+        <Literal>Morphological feature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RFURTubKDWqLAihpLETJcT</IRI>
+        <Literal>Full Coverage Fur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RJyNrKpDzg3Wql5fwIreYx</IRI>
+        <Literal>Zoomorph-vehicle-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RMeeMloTlOA13UQHPzaPui</IRI>
+        <Literal>Hoof</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RN4DyzZ6BvWYwNJnweTFFv</IRI>
+        <Literal>X-shaped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RPiHntqYkJZvtDkAr0jEGs</IRI>
+        <Literal>Cable bundle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RXhxJTge2Myn7mnszyZf4a</IRI>
+        <Literal>Partial Coverage Cloth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RYXpXefWlrMm4yyypxiPoV</IRI>
+        <Literal>Full Coverage Chassis + Rubber</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RfN4SQurwk33FB40hDMOp0</IRI>
+        <Literal>V-shaped torso</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RmlKg8qRndN3jOfUeB7GJE</IRI>
+        <Literal>Abstract Zoomorphic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RnQD44Nmq5InYeR04Ag8nq</IRI>
+        <Literal>Full Coverage Chassis + Skin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RzZtKB6bQ0sUkdUWm2WwUK</IRI>
+        <Literal>T-shaped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Abstract</IRI>
+        <Literal>A very simplified depiction of a feature with a low level of detail. Rendered features are always considered abstract.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Abstract</IRI>
+        <Literal>Abstract</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#AnimalHumanoidHybrid</IRI>
+        <Literal>Animal-humanoid-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Anthropomorphic</IRI>
+        <Literal>Anthropomorphic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#AnthropomorphicCaricature</IRI>
+        <Literal>Anthropomorphic caricature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#AntropomorphicSilhouette</IRI>
+        <Literal>Anthropomorphic silhouette</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Arm</IRI>
+        <Literal>Arm</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#BoxHumanoidHybrid</IRI>
+        <Literal>Box-humanoid-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#BoxShaped</IRI>
+        <Literal>Box (shape)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#BoxSilhouette</IRI>
+        <Literal>Box (silhouette)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Bust</IRI>
+        <Literal>Bust</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Cat</IRI>
+        <Literal>Cat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Centaur</IRI>
+        <Literal>Centaur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ChessPawn</IRI>
+        <Literal>Chess pawn</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Column</IRI>
+        <Literal>Column</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#DegreeOfRealism</IRI>
+        <Literal>Describes the degree of realism with which a feature is depicted</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DegreeOfRealism</IRI>
+        <Literal>Degree of realism</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DiamondShape</IRI>
+        <Literal>Diamond (shape)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DiamondSilhouette</IRI>
+        <Literal>Diamond (silhouette)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Dinosaur</IRI>
+        <Literal>Dinosaur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Dog</IRI>
+        <Literal>Dog</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Doll</IRI>
+        <Literal>Abstract anthropomorphic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Drone</IRI>
+        <Literal>Drone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Excavator</IRI>
+        <Literal>Excavator</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#GeneralDescriptor</IRI>
+        <Literal>Descriptors that can apply to any morphological subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#GeneralDescriptor</IRI>
+        <Literal>General descriptor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#GeometricSilhouette</IRI>
+        <Literal>Geometric silhouette</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Giraffe</IRI>
+        <Literal>Giraffe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#HandAndGripperConfiguration</IRI>
+        <Literal>Hand or Gripper configuration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#HeadlessHumanoid</IRI>
+        <Literal>Headless humanoid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#HermitCrab</IRI>
+        <Literal>Hermit crab</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Hexaped</IRI>
+        <Literal>Hexaped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Humanoid</IRI>
+        <Literal>Humanoid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#HumanoidAnimalHybrid</IRI>
+        <Literal>Humanoid-animal-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#HumanoidBaseHybrid</IRI>
+        <Literal>Humanoid-base-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#HumanoidBottomHybrid</IRI>
+        <Literal>&apos;Humanoid bottom&apos; hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#HumanoidHybrid</IRI>
+        <Literal>Humanoid hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#HumanoidTopHybrid</IRI>
+        <Literal>&apos;Humanoid top&apos; hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#HumanoidVehicleHybrid</IRI>
+        <Literal>Humanoid-vehicle-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Hybrid</IRI>
+        <Literal>A shape that can be partitioned into different partial shapes, e.g., a mermaid can be considered a humanoid-fish-hybrid.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Hybrid</IRI>
+        <Literal>Hybrid silhouette</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Hyperrealistic</IRI>
+        <Literal>Extremely lifelike depiction or accurate copy of a feature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Hyperrealistic</IRI>
+        <Literal>Hyperrealistic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#JointAmount</IRI>
+        <Literal>Joint amount</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Lizard</IRI>
+        <Literal>Lizard</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Long</IRI>
+        <Literal>Long</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Mitten</IRI>
+        <Literal>Mitten</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Monkey</IRI>
+        <Literal>Monkey</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Morphism</IRI>
+        <Literal>Describes likeness to humans, animals or vehicles/technical devices</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Morphism</IRI>
+        <Literal>Morphism</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#NeckLength</IRI>
+        <Literal>Neck length</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#PairOfLegs</IRI>
+        <Literal>Pair of legs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#PartialHumanoids</IRI>
+        <Literal>Partial humanoids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Plane</IRI>
+        <Literal>Plane</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Quadruped</IRI>
+        <Literal>Quadruped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Realistic</IRI>
+        <Literal>Detailed Depiction that mimics a real feature but is not completely lifelike or true to the original</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Realistic</IRI>
+        <Literal>Realistic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotAbdomen</IRI>
+        <Literal>A &apos;Body segment&apos; that mimicks the appearance an anthropomorphic or zoomorphic abdomen (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotAbdomen</IRI>
+        <Literal>Abdomen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotAccessories</IRI>
+        <Literal>A robot&apos;s &apos;Terminal subdivision&apos; that mimicks the appearance of human accessories (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotAccessories</IRI>
+        <Literal>Accessories</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotAirSupportingSubdivision</IRI>
+        <Literal>A robot&apos;s &apos;Supporting subdivision&apos; that connects the robot to the air (which then plays the role of the support plane).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotAirSupportingSubdivision</IRI>
+        <Literal>Air supporting subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotAntenna</IRI>
+        <Literal>An &apos;Appendage&apos; that visually resembles a technomorphic or animal antenna to the extent that it is readily perceived as such by human observers, regardless of its intended design.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotAntenna</IRI>
+        <Literal>Antenna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotAppendage</IRI>
+        <Literal>A &apos;Terminal subdivision&apos; that typically connects directly to the &apos;Core subdivision&apos;, e.g., a Tail.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotAppendage</IRI>
+        <Literal>Appendage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotArm</IRI>
+        <Literal>A &apos;Limb segment&apos; that typically connects the &apos;Core subdivision&apos; with &apos;Manipulators&apos; such as &apos;Hands&apos;.
+A robot &apos;Arm&apos; typically mimics the appearance of an anthropomorphic or zoomorphic arm (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotArm</IRI>
+        <Literal>Arm</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotBackpack</IRI>
+        <Literal>A robot&apos;s &apos;Appandage&apos; that mimicks the appearance of a backpack  (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotBackpack</IRI>
+        <Literal>Backpack</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotBall</IRI>
+        <Literal>A robot&apos;s &apos;Appandage&apos; that mimicks the appearance of a ball (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotBall</IRI>
+        <Literal>Ball</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotBase</IRI>
+        <Literal>A robot&apos;s &apos;Ground supporting subdivision&apos; that may act as the &apos;Core subdivision&apos; in abscence of a &apos;Body&apos; or &apos;Body segments&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotBase</IRI>
+        <Literal>Base</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotBeak</IRI>
+        <Literal>A robot&apos;s &apos;Lower face feature&apos; and &apos;Midface feature&apos; that mimicks the appearance of a zoomorphic beak (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotBeak</IRI>
+        <Literal>Beak</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotBeard</IRI>
+        <Literal>A robot&apos;s &apos;Lower face feature&apos; and &apos;Hair&apos; that mimicks the appearance of an anthropomorphic beard (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotBeard</IRI>
+        <Literal>Beard</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotBody</IRI>
+        <Literal>A &apos;Core subdivison&apos; that is typically not a &apos;Supporting subdivison&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotBody</IRI>
+        <Literal>Body</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotBodySegment</IRI>
+        <Literal>A segment of the &apos;Body&apos; that is (to humans) visually distinct from other &apos;Body segments&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotBodySegment</IRI>
+        <Literal>Body segment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotCamera</IRI>
+        <Literal>A robot&apos;s &apos;Higher face feature&apos; that mimicks the appearance of a technomorphic camera (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotCamera</IRI>
+        <Literal>Camera</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotCameraEye</IRI>
+        <Literal>A robot&apos;s &apos;Camera&apos; that mimicks (to a degree that it is readily recognizable as such by humans) the appearance of a zoomorphic or anthropomorphic eye.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotCameraEye</IRI>
+        <Literal>Camera eye</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotClothing</IRI>
+        <Literal>A robot&apos;s &apos;Terminal subdivision&apos; that mimicks the appearance of human clothing (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotClothing</IRI>
+        <Literal>Clothing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotConnectingSubdivision</IRI>
+        <Literal>A &apos;Morphological subdivision&apos; of the robot that connects two or more other &apos;Morphological subdivisions&apos;, e.g., a &apos;Neck&apos; may connect &apos;Torso&apos; and &apos;Head&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotConnectingSubdivision</IRI>
+        <Literal>Connecting subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotContainer</IRI>
+        <Literal>A robot&apos;s &apos;Appendage&apos; that appears (to a degree that it is readily recognizable as such by humans) to afford containing another medium.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotContainer</IRI>
+        <Literal>Container</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotEar</IRI>
+        <Literal>A robot&apos;s &apos;Midface feature&apos; that mimicks the appearance of an anthropomorphic or zoomorphic ear (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotEar</IRI>
+        <Literal>Ear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotEye</IRI>
+        <Literal>A robot&apos;s &apos;Higher face feature&apos; that mimicks the appearance of an anthropomorphic or zoomorphic eye (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotEye</IRI>
+        <Literal>Eye</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotEyebrow</IRI>
+        <Literal>A robot&apos;s &apos;Hair&apos; and &apos;Higher face feature&apos; that mimicks the appearance an anthropomorphic eyebrow (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotEyebrow</IRI>
+        <Literal>Eyebrow</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotFin</IRI>
+        <Literal>A robot&apos;s &apos;Appandage&apos; that mimicks the appearance of a zoomorphic &apos;Fin&apos; (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotFin</IRI>
+        <Literal>Fin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotFoot</IRI>
+        <Literal>A robot&apos;s &apos;Ground supporting subdivision&apos; that mimicks the appearance of an anthropomorphic or zoomorphic foot (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotFoot</IRI>
+        <Literal>Foot</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotFrame</IRI>
+        <Literal>A robot&apos;s &apos;Appandage&apos; appearing as a skeletal frame structure that is attached to the robot.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotFrame</IRI>
+        <Literal>Frame</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotGripper</IRI>
+        <Literal>A robot&apos;s &apos;Manipulator&apos; that visually affords grasping objects(to a degree that it is readily recognizable as such by humans), but that typically lacks anthropomorphic features associated to hands such as a palm.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotGripper</IRI>
+        <Literal>Gripper</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotGroundSupportingSubdivision</IRI>
+        <Literal>A robot&apos;s &apos;Supporting subdivision&apos; that connects the robot to the ground floor (which then plays the role of the support plane).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotGroundSupportingSubdivision</IRI>
+        <Literal>Ground supporting subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotHair</IRI>
+        <Literal>A robot&apos;s &apos;Head segment&apos; that mimicks the appearance of anthropomorphic or zoomorphic hair (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotHair</IRI>
+        <Literal>Hair</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotHand</IRI>
+        <Literal>A robot&apos;s &apos;Manipulator&apos; that mimicks the appearance of an anthropomorhic hand (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotHand</IRI>
+        <Literal>Hand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotHandle</IRI>
+        <Literal>A robot&apos;s &apos;Appendage&apos; that appears to afford grasping the robot manually.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotHandle</IRI>
+        <Literal>Handle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotHanger</IRI>
+        <Literal>A &apos;Rope supporting subdivision&apos; that appears to achieve support by hanging the robot from the rope.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotHanger</IRI>
+        <Literal>Hanger</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotHead</IRI>
+        <Literal>A &apos;Connecting subdivision&apos; that typically connects the robot&apos;s &apos;Neck&apos; (or, in absence of a &apos;Neck&apos;, the robot&apos;s &apos;Core subdivision&apos;) with &apos;Head segments&apos; such as &apos;Eyes&apos; or &apos;Hair&apos;.
+A robot &apos;Head&apos; typically mimics the appearance of an anthropomorphic or zoomorphic head (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotHead</IRI>
+        <Literal>Head</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotHeadScreen</IRI>
+        <Literal>A robot&apos;s &apos;Head segment&apos; that appears to be a computer screen, e.g., to showcase information.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotHeadScreen</IRI>
+        <Literal>Head screen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotHeadSegment</IRI>
+        <Literal>A robot&apos;s &apos;Terminal subdivision&apos; that is typically connected to the &apos;Head&apos; based on anthropomorphic or zoomorphic association.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotHeadSegment</IRI>
+        <Literal>Head segment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotHigherFaceFeature</IRI>
+        <Literal>A robot&apos;s &apos;Higher face feature&apos; is a &apos;Head segment&apos; that is by anthropomorphic or zoomorphic association typically connected to the higher facial region.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotHigherFaceFeature</IRI>
+        <Literal>Higher face feature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotHumanFaceScreen</IRI>
+        <Literal>A robot&apos;s &apos;Head screen&apos; that shows the face of a real (not rendered) human.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotHumanFaceScreen</IRI>
+        <Literal>Human face screen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotLeg</IRI>
+        <Literal>A &apos;Limb segment&apos; that typically connects the &apos;Core subdivision&apos; with &apos;Supporting subdivisions&apos; such as &apos;Stands&apos; or &apos;Feet&apos;.
+A robot &apos;Leg&apos; typically mimics the appearance of an anthropomorphic or zoomorphic leg (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotLeg</IRI>
+        <Literal>Leg</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotLimbSegment</IRI>
+        <Literal>A &apos;Connecting subdivision&apos; that typically connects the robot&apos;s &apos;Core subdivision&apos; with &apos;Manipulators&apos; or &apos;Supporting subdivisions&apos;, e.g., an &apos;Arm&apos; connects &apos;Body&apos; and &apos;Hand&apos;.
+A robot &apos;Limb segment&apos; typically mimics the appearance of the anthropomorphic or zoomorphic counterpart (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotLimbSegment</IRI>
+        <Literal>Limb segment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotLowerFaceFeature</IRI>
+        <Literal>A robot&apos;s &apos;Lower face feature&apos; is a &apos;Head segment&apos; that is by anthropomorphic or zoomorphic association typically connected to the lower facial region.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotLowerFaceFeature</IRI>
+        <Literal>Lower face feature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotManipulator</IRI>
+        <Literal>A robot&apos;s &apos;Terminal subdivision&apos; that mimick (to a degree that it is readily recognizable as such by humans) the appearance an anthropomorphic, zoomorphic, or technomorphic structure visually associated with physical manipulation of the real world, e.g., grasping. We exclude subdivisions that appear to move the robot; these are categorized as &apos;Supporting subdivisions&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotManipulator</IRI>
+        <Literal>Manipulator</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotMidfaceFeature</IRI>
+        <Literal>A robot&apos;s &apos;Midface feature&apos; is a &apos;Head segment&apos; that is by anthropomorphic or zoomorphic association typically connected to the midface region.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotMidfaceFeature</IRI>
+        <Literal>Midface feature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotMorphologicalDescriptor</IRI>
+        <Literal>Morphological descriptor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotMorphologicalFeature</IRI>
+        <Literal>A key distinct physical part of a robot that contributes to the robot&apos;s overall shape and that is visually apparanet to humans.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotMorphologicalFeature</IRI>
+        <Literal>Morphological subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotMorphologicalSilhouette</IRI>
+        <Literal>The overall shape of the robot as recognized by humans.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotMorphologicalSilhouette</IRI>
+        <Literal>Morphological silhouette</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotMouth</IRI>
+        <Literal>A robot&apos;s  &apos;Lower face feature&apos; that visually resembles a human or animal mouth to the extent that it is readily perceived as such by human observers, regardless of its intended design.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotMouth</IRI>
+        <Literal>Mouth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotNeck</IRI>
+        <Literal>A &apos;Connecting subdivision&apos; that typically connects the robot&apos;s &apos;Core subdivision&apos; with the &apos;Head&apos;.
+A robot &apos;Neck&apos; typically mimics the appearance of an anthropomorphic or zoomorphic neck (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotNeck</IRI>
+        <Literal>Neck</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotNose</IRI>
+        <Literal>A robot&apos;s &apos;Midface feature&apos; that mimicks the appearance of an anthropomorphic or zoomorphic nose (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotNose</IRI>
+        <Literal>Nose</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotRobotFaceScreen</IRI>
+        <Literal>A robot&apos;s &apos;Head screen&apos; that shows the face or facial features of a rendered avatar to appear as the face of the robot.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotRobotFaceScreen</IRI>
+        <Literal>Robot face screen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotRopeSupportingSubdivision</IRI>
+        <Literal>A &apos;Supporting subdivision&apos; that connects the robot to a rope or wire (which then plays the role of the support plane).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotRopeSupportingSubdivision</IRI>
+        <Literal>Rope supporting subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotRotor</IRI>
+        <Literal>A robot&apos;s &apos;Air supporting subdivision&apos; that appeas to achieve support by fast rotation.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotRotor</IRI>
+        <Literal>Air rotor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotScalpHair</IRI>
+        <Literal>A robot&apos;s &apos;Hair&apos; that mimicks the appearance of anthropomorphic scalp hair (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotScalpHair</IRI>
+        <Literal>Scalp hair</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotScreenAppandage</IRI>
+        <Literal>A robot&apos;s &apos;Appandage&apos; that appears to be a computer screen.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotScreenAppandage</IRI>
+        <Literal>Screen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotSensorArray</IRI>
+        <Literal>A robot&apos;s &apos;Head segment&apos; that mimicks the appearance of a technomorphic sensor array (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotSensorArray</IRI>
+        <Literal>Sensor array</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotSensorArrayEye</IRI>
+        <Literal>A robot&apos;s &apos;Sensor array&apos; that mimicks (to a degree that it is readily recognizable as such by humans) the appearance of a zoomorphic or anthropomorphic eye.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotSensorArrayEye</IRI>
+        <Literal>Sensor array eye</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotSensorArrayMouth</IRI>
+        <Literal>A robot&apos;s &apos;Sensor array&apos; that mimicks (to a degree that it is readily recognizable as such by humans) the appearance of a zoomorphic or anthropomorphic mouth.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotSensorArrayMouth</IRI>
+        <Literal>Sensor array mouth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotShoulder</IRI>
+        <Literal>A &apos;Limb segment&apos; that typically connects the &apos;Core subdivision&apos; with &apos;Arms&apos;.
+A robot &apos;Shoudler&apos; typically mimics the appearance of an anthropomorphic or zoomorphic shoulder (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotShoulder</IRI>
+        <Literal>Shoulder</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotSnout</IRI>
+        <Literal>A robot&apos;s &apos;Midface feature&apos; that mimicks the appearance of a zoomorphic snout (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotSnout</IRI>
+        <Literal>Snout</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotStand</IRI>
+        <Literal>A robot&apos;s technomorphic &apos;Ground supporting subdivision&apos; that appears to afford no movement.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotStand</IRI>
+        <Literal>Stand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotStructuralCore</IRI>
+        <Literal>A &apos;Morphological subdivison&apos; that is at the core of the robot, appearing to give basic structural stability, and directly connected with &apos;Connecting subdivisions&apos; (such as &apos;Arms&apos; and &apos;Legs&apos;) and &apos;Terminal subdivisions&apos;, typically &apos;Appandages&apos; such as &apos;Tails&apos; or &apos;Fins&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotStructuralCore</IRI>
+        <Literal>Core subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotSupportingSubdivision</IRI>
+        <Literal>A robot&apos;s &apos;Terminal subdivision&apos; that connects the robot to the support plane.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotSupportingSubdivision</IRI>
+        <Literal>Supporting subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotTail</IRI>
+        <Literal>A robot&apos;s &apos;Appandage&apos; that mimicks the appearance of a zoomorphic tail (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotTail</IRI>
+        <Literal>Tail</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotTerminalSubdivision</IRI>
+        <Literal>A &apos;Morphological subdivision&apos; that connects to only a single other &apos;Morphological subdivision&apos; such as &apos;Hands&apos;, &apos;Tails&apos;, &apos;Eyes&apos;, and &apos;Wheels&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotTerminalSubdivision</IRI>
+        <Literal>Terminal subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotThorax</IRI>
+        <Literal>A &apos;Body segment&apos; that mimicks the appearance of an anthropomorphic or zoomorphic thorax (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotThorax</IRI>
+        <Literal>Thorax</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotThruster</IRI>
+        <Literal>A robot&apos;s &apos;Appandage&apos; and &apos;Air supporting subdivision&apos; that appears to achieve support by thrust.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotThruster</IRI>
+        <Literal>Thruster</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotTool</IRI>
+        <Literal>A robot&apos;s &apos;Manipulator&apos; that visually affords (to a degree that it is readily recognizable as such by humans) dispositions typically associated with specialized technomorphic tools such as syringes, knifes, or watering cans.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotTool</IRI>
+        <Literal>Tool</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotTorso</IRI>
+        <Literal>A robot &apos;Body&apos; that mimicks the appearance of an anthropomorphic or zoomorphic torso (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotTorso</IRI>
+        <Literal>Torso</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotTread</IRI>
+        <Literal>A robot&apos;s technomorphic &apos;Gound supporting subdivision&apos; with treads.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotTread</IRI>
+        <Literal>Tread</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotVisor</IRI>
+        <Literal>A robot&apos;s &apos;Higher face feature&apos; that mimicks an technomorphic visor (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotVisor</IRI>
+        <Literal>Visor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotWaterRotor</IRI>
+        <Literal>A robot&apos;s &apos;Water supporting subdivision&apos; that appeas to achieve support by fast rotation.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotWaterRotor</IRI>
+        <Literal>Water rotor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotWaterSupportingSubdivision</IRI>
+        <Literal>A &apos;Supporting subdivision&apos; that connects the robot to water (which then plays the role of the support plane orthogonal to the robot&apos;s movement direction).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotWaterSupportingSubdivision</IRI>
+        <Literal>Water supporting subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotWearables</IRI>
+        <Literal>A robot&apos;s &apos;Terminal subdivision&apos; that mimicks the appearance of human wearables such as accessories and clothing (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotWearables</IRI>
+        <Literal>Wearables</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotWheel</IRI>
+        <Literal>A robot&apos;s technomorphic &apos;Ground supporting subdivision&apos; that appears to be a wheel.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotWheel</IRI>
+        <Literal>Wheel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RobotWing</IRI>
+        <Literal>A robot&apos;s &apos;Air supporting subdivision&apos; and &apos;Appandage&apos; that appears to achieve support by gliding or flapping, typically mimicking the appearance of a zoomorphic &apos;Wing&apos; (to a degree that it is readily recognizable as such by humans).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RobotWing</IRI>
+        <Literal>Wing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Rocket</IRI>
+        <Literal>Rocket</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RoundedBoxShape</IRI>
+        <Literal>Rounded box (shape)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RoundedBoxSilhouette</IRI>
+        <Literal>Rounded box (silhouette)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Shape</IRI>
+        <Literal>Describes shape of a morphologic subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Shape</IRI>
+        <Literal>Shape</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Ship</IRI>
+        <Literal>Ship</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Short</IRI>
+        <Literal>Short</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SingleArmHumanoidBaseHybrid</IRI>
+        <Literal>&apos;Single arm humanoid&apos;-base-hybrid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Sloth</IRI>
+        <Literal>Sloth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Snake</IRI>
+        <Literal>Snake</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Sphere</IRI>
+        <Literal>Sphere</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#SubdidvisionSpecificDescriptor</IRI>
+        <Literal>Descriptors only applying to specific kinds of morphological subdivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SubdidvisionSpecificDescriptor</IRI>
+        <Literal>Subdivision-specific descriptor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Symbolic</IRI>
+        <Literal>A technical component of a similar shape representing a feature eg. a round camera lens representing an eye</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Symbolic</IRI>
+        <Literal>Symbolic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tank</IRI>
+        <Literal>Tank</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Technomorphic</IRI>
+        <Literal>Technomorphic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TechnomorphicSilhouette</IRI>
+        <Literal>Technomorphic silhouette</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Torpedo</IRI>
+        <Literal>Torpedo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TorsoWithArms</IRI>
+        <Literal>Torso with arms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Vehicle</IRI>
+        <Literal>Vehicle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Zoomorphic</IRI>
+        <Literal>Zoomorphic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ZoomorphicSilhouette</IRI>
+        <Literal>Zoomorphic silhouette</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0Joint</IRI>
+        <Literal>0-joint</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#1Joint</IRI>
+        <Literal>1-joint</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#2Finger</IRI>
+        <Literal>2-Finger</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#2Joint</IRI>
+        <Literal>2-joint</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#3Finger</IRI>
+        <Literal>3-Finger</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#3Joint</IRI>
+        <Literal>3-joint</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#4Finger</IRI>
+        <Literal>4-Finger</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#5Finger</IRI>
+        <Literal>5-Finger</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#7Joint</IRI>
+        <Literal>7-joint</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
